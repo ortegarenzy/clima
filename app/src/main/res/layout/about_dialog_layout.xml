@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	android:orientation="vertical">
+
+    <TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Weather App v1.0"
+		android:layout_marginTop="10dp"
+		android:textColor="@color/colorPrimary"
+		android:textSize="12dp" />
+	
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Developed by Renzy Ortega"
+		android:layout_marginTop="10dp"
+		android:textColor="@color/colorPrimary"
+		android:textSize="12dp" />
+	
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Data Provided by OpenWeatherMap"
+		android:layout_marginTop="10dp"
+		android:textColor="@color/colorPrimary"
+		android:textSize="12dp" />
+	
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Icons by Erik Flowers"
+		android:layout_marginTop="10dp"
+		android:textColor="@color/colorPrimary"
+		android:textSize="12dp" />
+
+</LinearLayout>

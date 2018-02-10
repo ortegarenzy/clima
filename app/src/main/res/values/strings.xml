@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Clima</string>
+
+	<string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+	<string name="weather_sunny" translatable="false">&#xf00d;</string>
+    <string name="weather_clear_night" translatable="false">&#xf02e;</string>
+    <string name="weather_foggy" translatable="false">&#xf014;</string>
+    <string name="weather_cloudy" translatable="false">&#xf013;</string>
+    <string name="weather_rainy" translatable="false">&#xf019;</string>
+    <string name="weather_snowy" translatable="false">&#xf01b;</string>
+    <string name="weather_thunder" translatable="false">&#xf01e;</string>
+    <string name="weather_drizzle" translatable="false">&#xf01c;</string>
+
+	<string name="downloading_data">Downloading your data ...</string>
+
+    <string name="permission_info">Location Permissions are needed to determine the current location</string>
+    <string name="permission_not_granted">Permissions were not granted</string>
+    <string name="permission_granted">Location Permissions have been granted</string>
+    <string name="permission_need">You must grant Location Permissions</string>
+</resources>
